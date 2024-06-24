@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SoundtrackMyLife</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="done_button">Done</string>
+    <string name="add_song_button">Add Song</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_location_button">Add Location</string>
+    <string name="current_song_title">Currently Playing</string>
+    <string name="current_song_artist">Artist</string>
+    <string name="current_location_name">Location</string>
+    <string name="default_time">0:00</string>
+    <string name="MAP_API_KEY">AIzaSyALGxGFLkMCI177ODZIhoso7Bvp5p8EXPI</string>
+    <string name="Marker_Done_Button">Done</string>
+</resources>
