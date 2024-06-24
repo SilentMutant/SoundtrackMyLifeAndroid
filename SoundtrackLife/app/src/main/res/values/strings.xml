@@ -10,6 +10,6 @@
     <string name="current_song_artist">Artist</string>
     <string name="current_location_name">Location</string>
     <string name="default_time">0:00</string>
-    <string name="MAP_API_KEY">AIzaSyALGxGFLkMCI177ODZIhoso7Bvp5p8EXPI</string>
+    <string name="MAP_API_KEY"></string>
     <string name="Marker_Done_Button">Done</string>
 </resources>
